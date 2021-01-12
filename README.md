@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello! I'm Nandini Proothi</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A budding developer 👉👈</h3>
 
 - 🔭 I’m currently working on [icantfindaname-bot](https://github.com/nandiniproothi/icantfindaname-bot)
 
