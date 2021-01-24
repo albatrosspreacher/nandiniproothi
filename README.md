@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [amplify-bot](https://github.com/nandiniproothi/amplify-bot)
 
-- 📫 You can reach me at mailto:nandiniproothi@yahoo.com
+- 📫 You can reach me at [mailto:nandiniproothi@yahoo.com](nandiniproothi@yahoo.com)
 
 - 📄 Check out my accounts at [https://linktr.ee/nandiniproothi](https://linktr.ee/nandiniproothi)
 
