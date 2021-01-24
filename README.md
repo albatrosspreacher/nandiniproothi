@@ -2,11 +2,11 @@
 <h1 align="center">Hello! I'm Nandini Proothi</h1>
 <h3 align="center">A budding developer 👉👈</h3>
 
-- 🔭 I’m currently working on [icantfindaname-bot](https://github.com/nandiniproothi/icantfindaname-bot)
+- 🔭 I’m currently working on [amplify-bot](https://github.com/nandiniproothi/amplify-bot)
 
-- 📫 How to reach me **nandiniproothi@yahoo.com**
+- 📫 You can reach me at **nandiniproothi@yahoo.com**
 
-- 📄 Know about my experiences [https://linktr.ee/nandiniproothi](https://linktr.ee/nandiniproothi)
+- 📄 Check out my accounts at [https://linktr.ee/nandiniproothi](https://linktr.ee/nandiniproothi)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
