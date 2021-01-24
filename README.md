@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello! I'm Nandini Proothi</h1>
+<h1 align="center">Hello! I'm Nandini Proothi (she/her)</h1>
 <h3 align="center">A budding developer 👉👈</h3>
 
 - 🔭 I’m currently working on [amplify-bot](https://github.com/nandiniproothi/amplify-bot)
