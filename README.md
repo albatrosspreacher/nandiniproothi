@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandiniproothi&label=Profile%20views&color=0e75b6&style=flat" alt="nandiniproothi" /> </p>
 <p align="left"> <a href="https://twitter.com/smolpkg" target="blank"><img src="https://img.shields.io/twitter/follow/smolpkg?logo=twitter&style=for-the-badge" alt="smolpkg" /></a> </p>
 
-- 🔭 I’m currently working on [amplify-bot](https://github.com/nandiniproothi/cms-admin)
+- 🔭 I’m currently working on [cms-admin](https://github.com/nandiniproothi/cms-admin)
 
 - 📫 You can reach me at [nandiniproothi@yahoo.com](mailto:nandiniproothi@yahoo.com)
 
