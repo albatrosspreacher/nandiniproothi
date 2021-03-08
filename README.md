@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/smolpkg" target="blank"><img src="https://img.shields.io/twitter/follow/smolpkg?logo=twitter&style=for-the-badge" alt="smolpkg" /></a> </p>
 <br>
 
-## Like my work? [Buy me a coffee!](https://www.buymeacoffee.com/smolpkg)
+## like my work? [buy me a coffee!](https://www.buymeacoffee.com/smolpkg)
 
 <br>
 
