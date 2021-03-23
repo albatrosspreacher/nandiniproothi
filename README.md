@@ -14,7 +14,7 @@
 
 - 📫 You can reach me at [nandiniproothi@yahoo.com](mailto:nandiniproothi@yahoo.com)
 
-- 📄 More about me at [https://linktr.ee/nandiniproothi](https://linktr.ee/nandiniproothi)
+- 📄 More about me at [https://www.nandiniproothi.live](https://www.nandiniproothi.live)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
