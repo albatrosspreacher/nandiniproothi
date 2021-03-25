@@ -34,7 +34,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nandiniproothi&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 </a> <br> <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nandiniproothi&theme=tokyonight)](https://github.com/nandiniproothi/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nandiniproothi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight)](https://github.com/nandiniproothi/github-readme-streak-stats)
 
 <!--
 **nandiniproothi/nandiniproothi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
