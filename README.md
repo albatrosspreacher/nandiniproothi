@@ -10,9 +10,7 @@
 
 <br>
 
-- 🔭 I’m currently working on [cms-admin](https://github.com/nandiniproothi/cms-admin)
-
-- 📫 You can reach me at [nandiniproothi@yahoo.com](mailto:nandiniproothi@yahoo.com)
+- 📫 Drop me an email at [nandini.proothi1@learner.manipal.edu](mailto:nandini.proothi1@learner.manipal.edu)
 
 - 📄 More about me at [https://www.nandiniproothi.live](https://www.nandiniproothi.live)
 
