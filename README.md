@@ -4,8 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandiniproothi&label=Profile%20views&color=0e75b6&style=flat" alt="nandiniproothi" style="height: 20px; width: auto;"/> </p>
 <p align="left"> <a href="https://twitter.com/smolpkg" target="blank"><img src="https://img.shields.io/twitter/follow/smolpkg?logo=twitter&style=for-the-badge" alt="smolpkg" /></a> </p>
 
-## Like my work? [Buy Me A Coffee!](https://www.buymeacoffee.com/smolpkg)
-
 - 📫 &nbsp; Drop me an [email](mailto:nandini.proothi1@learner.manipal.edu)
 
 - 📄 &nbsp; More about me [here](https://www.nandiniproothi.live)
